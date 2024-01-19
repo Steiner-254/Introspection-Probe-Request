@@ -1,0 +1,5 @@
+#Introspection probe request
+
+{
+    "query": "{__schema{queryType{name}}}"
+}
